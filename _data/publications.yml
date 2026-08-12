@@ -5,6 +5,7 @@ main:
     conference_short: IJCAI-ECAI 2026
     conference: IJCAI-ECAI 2026
     pdf: https://arxiv.org/pdf/2605.13077
+    report: https://arxiv.org/pdf/2605.13077
     code: #https://github.com/MrGiovanni/ContinualLearning
     bibtex: #https://bib.yliu.me/MICCAI23.txt
     image: #./assets/img/teaser_example_2.png
