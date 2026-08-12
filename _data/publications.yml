@@ -10,3 +10,14 @@ main:
     bibtex: #https://bib.yliu.me/MICCAI23.txt
     image: #./assets/img/teaser_example_2.png
     notes: #Early Accept
+
+  - title: Counterfactual Reasoning for Responsibility Attribution in Probabilistic Multi-Agent Systems
+    authors: Vadim Malvone and Chunyan Mu 
+    conference_short: AAMAS 2026
+    conference: AAMAS 2026
+    pdf: assets/files/aamas26a.pdf
+    report: 
+    code: #https://github.com/MrGiovanni/ContinualLearning
+    bibtex: #https://bib.yliu.me/MICCAI23.txt
+    image: #./assets/img/teaser_example_2.png
+    notes: #Early Accept
