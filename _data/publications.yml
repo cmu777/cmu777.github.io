@@ -1,7 +1,7 @@
 main:
 
   - title: Counterfactual Reasoning for Responsibility Attribution in Probabilistic Multi-Agent Systems
-    authors: #Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
+    authors: Chunyan Mu and Muhammad Najib #Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
     conference_short: IJCAI-ECAI 2026
     conference: #International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
     pdf: https://arxiv.org/pdf/2605.13077
