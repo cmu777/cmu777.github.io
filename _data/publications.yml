@@ -32,3 +32,13 @@ main:
     bibtex: #https://bib.yliu.me/MICCAI23.txt
     image: #./assets/img/teaser_example_2.png
     notes: #Early Accept
+  - title: Probabilistic Strategy Logic with Degrees of Observability
+    authors: Chunyan Mu, Nima Motamed, Natasha Alechina, Brian Logan
+    conference_short: AAAI 2025
+    conference: AAAI 2025
+    pdf: assets/files/aaai25b.pdf
+    report: https://arxiv.org/pdf/2412.15135
+    code: #https://github.com/MrGiovanni/ContinualLearning
+    bibtex: #https://bib.yliu.me/MICCAI23.txt
+    image: #./assets/img/teaser_example_2.png
+    notes: #Early Accept
