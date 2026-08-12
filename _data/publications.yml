@@ -4,7 +4,7 @@ main:
     authors: Chunyan Mu and Muhammad Najib #Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
     conference_short: IJCAI-ECAI 2026
     conference: IJCAI-ECAI 2026
-    pdf: https://arxiv.org/pdf/2605.13077
+    pdf: ./ijcai26.pdf
     report: https://arxiv.org/pdf/2605.13077
     code: #https://github.com/MrGiovanni/ContinualLearning
     bibtex: #https://bib.yliu.me/MICCAI23.txt
