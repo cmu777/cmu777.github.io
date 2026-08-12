@@ -21,3 +21,14 @@ main:
     bibtex: #https://bib.yliu.me/MICCAI23.txt
     image: #./assets/img/teaser_example_2.png
     notes: #Early Accept
+
+  - title: Responsibility-aware Strategic Reasoning in Probabilistic Multi-Agent Systems
+    authors: Chunyan Mu and Muhammad Najib and Nir Oren
+    conference_short: AAAI 2025
+    conference: AAAI 2025
+    pdf: assets/files/aaai25a.pdf
+    report: https://arxiv.org/pdf/2411.00146
+    code: #https://github.com/MrGiovanni/ContinualLearning
+    bibtex: #https://bib.yliu.me/MICCAI23.txt
+    image: #./assets/img/teaser_example_2.png
+    notes: #Early Accept
