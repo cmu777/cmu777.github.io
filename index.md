@@ -8,7 +8,7 @@ I am a Ph.D. student at ...-->
 
 ## Research Interests
 
-- **Trustworthy AI and Safe Autonomy::** formal verification and strategic reasoning of multi-agent systems
+- **Trustworthy AI:** formal verification and strategic reasoning of multi-agent systems
 - **Information Security:** formal approaches to security, information flow, lanugage-based security
 
 <!--## News
