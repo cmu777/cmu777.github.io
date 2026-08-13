@@ -66,7 +66,7 @@ main:
     image: #./assets/img/teaser_example_2.png
     notes: #Early Accept
     
-  - title: Probabilistic Strategy Logic with Degrees of Observability
+  - title: Verifying Opacity Properties in Security Systems
     authors: Chunyan Mu and David Clark
     conference_short: IEEE TDSC 2023
     conference: IEEE Transactions on Dependable and Secure Computing (TDSC), 2023
