@@ -46,8 +46,8 @@ main:
 
   - title: Bunch theory: Axioms, logic, applications and model
     authors: Bill Stoddart, Steve Dunne, Chunyan Mu, Frank Zeyda 
-    conference_short: J. Log. Algebraic Methods Program.
-    conference: Journal of Logical and Algebraic Methods in Programming
+    conference_short: J. Log. Algebraic Methods Program. (2024)
+    conference: Journal of Logical and Algebraic Methods in Programming (2024)
     pdf: assets/files/j-logic-algebraic-method24.pdf
     report:
     code: #https://github.com/MrGiovanni/ContinualLearning
