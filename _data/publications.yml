@@ -52,8 +52,6 @@ main:
     report:
     code: #https://github.com/MrGiovanni/ContinualLearning
     bibtex: #https://bib.yliu.me/MICCAI23.txt
-    image: #./assets/img/teaser_example_2.png
-    notes: #Early Accept
     
   - title: On Observability Analysis in Multiagent Systems
     authors: Chunyan Mu and Jun Pang
