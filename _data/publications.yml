@@ -58,7 +58,7 @@ main:
   - title: Probabilistic Strategy Logic with Degrees of Observability
     authors: Chunyan Mu and David Clark
     conference_short: IEEE TDSC 2023
-    conference: IEEE Transactions on Dependable and Secure Computing (TDSC)
+    conference: IEEE Transactions on Dependable and Secure Computing (TDSC), 2023
     pdf: assets/files/ieee-tdsc23.pdf
     report: 
     code: #https://github.com/MrGiovanni/ContinualLearning
