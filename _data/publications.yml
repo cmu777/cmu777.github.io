@@ -44,7 +44,7 @@ main:
     image: #./assets/img/teaser_example_2.png
     notes: #Early Accept
 
-  - title: Bunch theory: Axioms, Logic, Applications and Model
+  - title: Bunch theory - Axioms, Logic, Applications and Model
     authors: Bill Stoddart, Steve Dunne, Chunyan Mu, Frank Zeyda
     conference_short: J. Log. Algebraic Methods Program.
     conference: Journal of Logical and Algebraic Methods in Programming
