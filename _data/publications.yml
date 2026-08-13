@@ -43,17 +43,6 @@ main:
     bibtex: #https://bib.yliu.me/MICCAI23.txt
     image: #./assets/img/teaser_example_2.png
     notes: #Early Accept
-
-  - title: Bunch theory: Axioms, logic, applications and model
-    authors: Bill Stoddart, Steve Dunne, Chunyan Mu, Frank Zeyda 
-    conference_short: J. Log. Algebraic Methods Program. (2024)
-    conference: Journal of Logical and Algebraic Methods in Programming (2024)
-    pdf: assets/files/j-logic-algebraic-method24.pdf
-    report:
-    code: #https://github.com/MrGiovanni/ContinualLearning
-    bibtex: #https://bib.yliu.me/MICCAI23.txt
-    image: #./assets/img/teaser_example_2.png
-    notes: #Early Accept
     
   - title: On Observability Analysis in Multiagent Systems
     authors: Chunyan Mu and Jun Pang
