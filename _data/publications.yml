@@ -11,7 +11,7 @@ main:
     image: #./assets/img/teaser_example_2.png
     notes: #Early Accept
 
-  - title: Counterfactual Reasoning for Responsibility Attribution in Probabilistic Multi-Agent Systems
+  - title: Reasoning about Bias in Multi-Agent Systems Verification
     authors: Vadim Malvone and Chunyan Mu 
     conference_short: AAMAS 2026
     conference: AAMAS 2026
