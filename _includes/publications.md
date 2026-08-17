@@ -30,6 +30,9 @@
       {% if link.report %} 
       <a href="{{ link.report }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Report</a>
       {% endif %}
+      {% if link.slides %} 
+      <a href="{{ link.slides }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slides</a>
+      {% endif %}
       {% if link.bibtex %} 
       <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
       {% endif %}
