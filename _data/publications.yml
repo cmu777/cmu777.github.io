@@ -6,6 +6,7 @@ main:
     conference: IJCAI-ECAI 2026
     pdf: assets/files/ijcai26.pdf
     report: https://arxiv.org/pdf/2605.13077
+    slides: assets/files/ijcai26-slides.pdf
     code: #https://github.com/MrGiovanni/ContinualLearning
     bibtex: #https://bib.yliu.me/MICCAI23.txt
     image: #./assets/img/teaser_example_2.png
