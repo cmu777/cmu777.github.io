@@ -64,6 +64,7 @@ main:
     conference: ECAI 2023
     pdf: assets/files/ecai23.pdf
     report: 
+    slides: assets/files/ecai23-slides.pdf
     code: #https://github.com/MrGiovanni/ContinualLearning
     bibtex: #https://bib.yliu.me/MICCAI23.txt
     image: #./assets/img/teaser_example_2.png
