@@ -54,6 +54,7 @@ main:
     pdf: assets/files/j-logic-algebraic-method24.pdf
     report: 
     code: #https://github.com/MrGiovanni/ContinualLearning
+    supp: assets/files/supp-bunch-logic.pdf
     bibtex: #https://bib.yliu.me/MICCAI23.txt
     image: #./assets/img/teaser_example_2.png
     notes: #Early Accept
