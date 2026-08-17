@@ -30,6 +30,7 @@ main:
     conference: AAAI 2025
     pdf: assets/files/aaai25a.pdf
     report: https://arxiv.org/pdf/2411.00146
+    slides: assets/files/aaai25-slides.pdf
     code: #https://github.com/MrGiovanni/ContinualLearning
     bibtex: #https://bib.yliu.me/MICCAI23.txt
     image: #./assets/img/teaser_example_2.png
