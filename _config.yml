@@ -21,8 +21,8 @@ email: chunyan.mu (at) abdn.ac.uk
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/mu.png #avatar.png 
-favicon: ./assets/img/mu-icon.png #favicon.png
-favicon_dark: ./assets/img/mu-icon.png
+favicon: ./assets/img/mu-icon.jpg #favicon.png
+favicon_dark: ./assets/img/mu-icon.jpg
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
