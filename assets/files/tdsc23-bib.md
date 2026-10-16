@@ -2,7 +2,7 @@
   author       = {Chunyan Mu and
                   David Clark},
   title        = {Verifying Opacity Properties in Security Systems},
-  journal      = {{IEEE} Trans. Dependable Secur. Comput.},
+  journal      = {IEEE Trans. Dependable Secur. Comput.},
   volume       = {20},
   number       = {2},
   pages        = {1450--1460},
