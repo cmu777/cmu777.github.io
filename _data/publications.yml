@@ -20,7 +20,7 @@ main:
     report: 
     slides: assets/files/aamas26-slides.pdf
     code: #https://github.com/MrGiovanni/ContinualLearning
-    bibtex: #https://bib.yliu.me/MICCAI23.txt
+    bibtex: assets/files/aamas26a-bib.md
     image: #./assets/img/teaser_example_2.png
     notes: #Early Accept
 
@@ -32,7 +32,7 @@ main:
     report: https://arxiv.org/pdf/2411.00146
     slides: assets/files/aaai25-slides.pdf
     code: #https://github.com/MrGiovanni/ContinualLearning
-    bibtex: #https://bib.yliu.me/MICCAI23.txt
+    bibtex:  assets/files/aaai25a-bib.md
     image: #./assets/img/teaser_example_2.png
     notes: #Early Accept
     
@@ -43,7 +43,7 @@ main:
     pdf: assets/files/aaai25b.pdf
     report: https://arxiv.org/pdf/2412.15135
     code: #https://github.com/MrGiovanni/ContinualLearning
-    bibtex: #https://bib.yliu.me/MICCAI23.txt
+    bibtex: assets/files/aaai25b-bib.md
     image: #./assets/img/teaser_example_2.png
     notes: #Early Accept
 
@@ -55,7 +55,7 @@ main:
     report: 
     code: #https://github.com/MrGiovanni/ContinualLearning
     supp: assets/files/supp-bunch-logic.pdf
-    bibtex: #https://bib.yliu.me/MICCAI23.txt
+    bibtex: assets/files/bunch-bib.md
     image: #./assets/img/teaser_example_2.png
     notes: #Early Accept
     
@@ -67,7 +67,7 @@ main:
     report: 
     slides: assets/files/ecai23-slides.pdf
     code: #https://github.com/MrGiovanni/ContinualLearning
-    bibtex: #https://bib.yliu.me/MICCAI23.txt
+    bibtex: assets/files/ecai23-bib.md
     image: #./assets/img/teaser_example_2.png
     notes: #Early Accept
     
@@ -78,6 +78,6 @@ main:
     pdf: assets/files/ieee-tdsc23.pdf
     report: 
     code: #https://github.com/MrGiovanni/ContinualLearning
-    bibtex: #https://bib.yliu.me/MICCAI23.txt
+    bibtex: assets/files/tdsc23-bib.md
     image: #./assets/img/teaser_example_2.png
     notes: #Early Accept
