@@ -6,6 +6,6 @@
   series       = {Frontiers in Artificial Intelligence and Applications},
   volume       = {372},
   pages        = {1755--1762},
-  publisher    = {{IOS} Press},
+  publisher    = {IOS Press},
   year         = {2023}
 }
