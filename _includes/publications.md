@@ -24,14 +24,14 @@
       {% if link.pdf %} 
       <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
       {% endif %}
+      {% if link.supp %} 
+      <a href="{{ link.supp }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Supplementary</a> 
+      {% endif %}
       {% if link.report %} 
       <a href="{{ link.report }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Report</a>
       {% endif %}
       {% if link.slides %} 
       <a href="{{ link.slides }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slides</a>
-      {% endif %}
-      {% if link.supp %} 
-      <a href="{{ link.supp }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Supplementary</a> 
       {% endif %}
       {% if link.code %} 
       <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
